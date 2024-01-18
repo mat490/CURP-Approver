@@ -12,7 +12,7 @@ Make sure you have a C++ development environment set up.
 #include <regex>
    ```
 
-1.**Clone the repository:**
+1. **Clone the repository:**
    ```bash
    git clone https://github.com/tu_usuario/CURP-Approver.git
    ```
@@ -21,7 +21,7 @@ Make sure you have a C++ development environment set up.
    g++ main.cpp -o curp_approver
    ```
 
-3.**Run program:**
+3. **Run program:**
    ```bash
    ./curp_approver
    ```
