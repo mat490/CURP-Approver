@@ -3,32 +3,32 @@
 ## Description
 A simple program that allows to validate; if a curp is correct or incorrect.
 
-## Uso
-Asegúrate de tener un entorno de desarrollo C++ configurado.
-**Recuerda tener las siguientes bibliotecas instaladas:**
+## Use
+Make sure you have a C++ development environment set up.
+**Remember to have the following libraries installed:**
   ```bash
 #include <iostream>
 #include <vector>
 #include <regex>
    ```
 
-1. **Clonar el repositorio:**
+1.**Clone the repository:**
    ```bash
    git clone https://github.com/tu_usuario/CURP-Approver.git
    ```
-2. **Compilar el programa:**
+2. **Compile the program:**
    ```bash
    g++ main.cpp -o curp_approver
    ```
 
-3. **Ejecutar programa:**
+3.**Run program:**
    ```bash
    ./curp_approver
    ```
-## Funciones
-* validateCURP: Función principal para validar la CURP.
-* whyNot: Muestra mensajes detallados si la CURP no es válida.
-* getDescription: Obtiene descripciones detalladas para cada parte de la CURP.
+## Features
+* validateCURP: Main function to validate the CURP.
+* whyNot: Show detailed messages if the CURP is invalid.
+* getDescription: Get detailed descriptions for each part of the CURP.
 
-## Contribuciones
-¡Las contribuciones son bienvenidas! Si encuentras un error o quieres mejorar el código, no dudes en enviar un pull request.
+## Contributions
+Contributions are welcome! If you find a bug or want to improve the code, feel free to submit a pull request.
