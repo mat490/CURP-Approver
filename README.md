@@ -4,7 +4,8 @@
 A simple program that allows to validate; if a curp is correct or incorrect.
 
 ## Use
-Make sure you have a C++ development environment set up.
+> [!IMPORTANT]
+> Make sure you have a C++ development environment set up.
 **Remember to have the following libraries installed:**
   ```bash
 #include <iostream>
