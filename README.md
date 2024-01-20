@@ -15,7 +15,7 @@ A simple program that allows to validate; if a curp is correct or incorrect.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/tu_usuario/CURP-Approver.git
+   git clone https://github.com/mat490/CURP-Approver.git
    ```
 2. **Compile the program:**
    ```bash
